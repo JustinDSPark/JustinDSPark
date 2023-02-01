@@ -2,7 +2,7 @@
 ### Let me introduce myself
 
 I am Sunwoo Park. I am a data scientist majoring Economics.
-From a simple economic data and sports and product stategy marketing,
+For a simple economic data and sports and product stategy marketing,
 I can offer you data analysis. Thx
 
 <!--
